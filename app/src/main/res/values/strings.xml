@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SabaIdeaTest</string>
+    <string name="search">جست و جو</string>
+    <string name="enter_name_of_your_movie">برای جست و جوی فیلم مورد علاقه خود، نام یا قسمتی از نام آن را وارد کنید.</string>
+</resources>
