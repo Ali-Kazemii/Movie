@@ -25,7 +25,9 @@
         android:layout_height="match_parent"
         android:layout_marginTop="16dp"
         app:layout_constraintEnd_toStartOf="@id/guideline_end"
-        app:layout_constraintStart_toEndOf="@id/guideline_start" />
+        app:layout_constraintStart_toEndOf="@id/guideline_start"
+        android:paddingBottom="8dp"
+        android:clipToPadding="false" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/layout_search_hint"
